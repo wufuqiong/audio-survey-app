@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audio-survey-app/static/css/main.61ac7470.css",
+    "main.js": "/audio-survey-app/static/js/main.cd6f9e5b.js",
+    "static/js/453.d6a71452.chunk.js": "/audio-survey-app/static/js/453.d6a71452.chunk.js",
+    "index.html": "/audio-survey-app/index.html",
+    "main.61ac7470.css.map": "/audio-survey-app/static/css/main.61ac7470.css.map",
+    "main.cd6f9e5b.js.map": "/audio-survey-app/static/js/main.cd6f9e5b.js.map",
+    "453.d6a71452.chunk.js.map": "/audio-survey-app/static/js/453.d6a71452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61ac7470.css",
+    "static/js/main.cd6f9e5b.js"
+  ]
+}
